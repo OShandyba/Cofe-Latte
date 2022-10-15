@@ -1,25 +1,28 @@
-import logo from './logo.svg';
+import * as React from 'react';
 import './App.css';
+import { Box } from '@mui/material';
+import Header from './components/header';
+import AboutUs from './components/aboutUs'
+import Menu from './components/menu';
+import WorkHours from './components/workHours';
+import Foto from './components/foto';
+import Awards from './components/awards';
+import Footer from './components/footer';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Box
+      sx={{
+        width: '1440px',
+        margin: 'auto'
+      }}>
+      <Header />
+      <AboutUs />
+      <Menu />
+      <WorkHours />
+      <Foto />
+      <Awards />
+      <Footer />
+    </Box>
+  )
 }
-
-export default App;
