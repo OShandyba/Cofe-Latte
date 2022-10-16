@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/OShandyba/Cofe-Latte.git/static/css/main.944b6a5d.css",
-    "main.js": "/OShandyba/Cofe-Latte.git/static/js/main.2b3958a2.js",
-    "static/media/4.png": "/OShandyba/Cofe-Latte.git/static/media/4.e178ab0f5ed5a031c9dc.png",
-    "static/media/3.png": "/OShandyba/Cofe-Latte.git/static/media/3.4feccf3b98ec71728972.png",
-    "static/media/1.png": "/OShandyba/Cofe-Latte.git/static/media/1.65509595ecc338d6cd40.png",
-    "static/media/Inter-VariableFont_slnt,wght.ttf": "/OShandyba/Cofe-Latte.git/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
-    "static/media/2.png": "/OShandyba/Cofe-Latte.git/static/media/2.eec3953c671b896edcb0.png",
-    "static/media/5.png": "/OShandyba/Cofe-Latte.git/static/media/5.18c277cd732e7a4fbeb4.png",
-    "index.html": "/OShandyba/Cofe-Latte.git/index.html",
-    "main.944b6a5d.css.map": "/OShandyba/Cofe-Latte.git/static/css/main.944b6a5d.css.map",
-    "main.2b3958a2.js.map": "/OShandyba/Cofe-Latte.git/static/js/main.2b3958a2.js.map"
+    "main.css": "/Cofe-Latte/static/css/main.b8782e69.css",
+    "main.js": "/Cofe-Latte/static/js/main.ca659cc3.js",
+    "static/media/4.png": "/Cofe-Latte/static/media/4.e178ab0f5ed5a031c9dc.png",
+    "static/media/3.png": "/Cofe-Latte/static/media/3.4feccf3b98ec71728972.png",
+    "static/media/1.png": "/Cofe-Latte/static/media/1.65509595ecc338d6cd40.png",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/Cofe-Latte/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
+    "static/media/2.png": "/Cofe-Latte/static/media/2.eec3953c671b896edcb0.png",
+    "static/media/5.png": "/Cofe-Latte/static/media/5.18c277cd732e7a4fbeb4.png",
+    "index.html": "/Cofe-Latte/index.html",
+    "main.b8782e69.css.map": "/Cofe-Latte/static/css/main.b8782e69.css.map",
+    "main.ca659cc3.js.map": "/Cofe-Latte/static/js/main.ca659cc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.944b6a5d.css",
-    "static/js/main.2b3958a2.js"
+    "static/css/main.b8782e69.css",
+    "static/js/main.ca659cc3.js"
   ]
 }
